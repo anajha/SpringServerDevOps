@@ -1,0 +1,4 @@
+This is a log file
+This is the first record line of the log file
+This is the second record line of the log file
+This is the third record line of the log file
